@@ -1,0 +1,48 @@
+.jumbotron {
+    background-color: orange;
+}
+
+.original_title {
+    background-color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+
+.summary_title {
+    background-color: greenyellow;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+
+.originalTxt {
+    background-color: orangered;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.summaryTxt {
+    background-color: greenyellow;
+    padding: 20px;
+    border-radius: 5px;
+    color: black;
+}
+
+.heading {
+    font-weight: bold;
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.submitbtn {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+}
